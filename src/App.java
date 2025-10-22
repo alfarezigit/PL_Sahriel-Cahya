@@ -32,7 +32,7 @@ public class App {
                 if (angka2 != 0) {
                     hasil = angka1 / angka2;
                 } else {
-                    System.out.println("Error: Pembagian dengan nol tidak diizinkan.");
+                    System.out.println("Error: Pembagian dengannol tidak diizinkan.");
                     input.close();
                     return;
                 }
