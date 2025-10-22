@@ -1,10 +1,10 @@
-# Kalkulator Sederhana Java
+# Kalkulator simpel Java
 
 [![Lisensi](https://img.shields.io/badge/Lisensi-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## 📖 Deskripsi Proyek
 
-Proyek ini adalah implementasi **kalkulator sederhana** menggunakan bahasa pemrograman **Java**. Kalkulator ini dirancang untuk melakukan empat operasi aritmatika dasar: Penjumlahan, Pengurangan, Perkalian, dan Pembagian, serta menangani kasus pembagian dengan nol.
+Proyek ini adalah implementasi **kalkulator simpel** menggunakan bahasa pemrograman **Java**. Kalkulator ini dirancang untuk melakukan empat operasi aritmatika dasar: Penjumlahan, Pengurangan, Perkalian, dan Pembagian, serta menangani kasus pembagian dengan nol.
 
 ## ⚙️ Panduan Penggunaan
 
