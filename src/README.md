@@ -1,7 +1,7 @@
 
 ---
 
-## 💡 Cara Menjalankan Program
+##  Cara Menjalankan Program
 1. Buka **IntelliJ IDEA** atau **VS Code**.
 2. Buat file baru bernama `CafeMinumanRefactor.java`.
 3. Salin kode program ke dalam file tersebut.
@@ -10,20 +10,19 @@
 
 ---
 
-## 🧠 Catatan Tambahan
+##  Catatan Tambahan
 - Program ini dibuat menggunakan **Java JDK 17**.
 - Fitur **autocomplete** dan **custom live template** digunakan untuk mempercepat penulisan kode.
 - Dokumentasi ditulis menggunakan **JavaDoc** agar kode mudah dipahami.
 
 ---
 
-## 👨‍💻 Identitas Pembuat
+##  Identitas Pembuat
 **Nama:** Sahriel Cahya Alfarezi  
 **NIM:** 202410370110153  
-**Mata Kuliah:** Pemrograman Lanjut  
-**Dosen Pengampu:** M. Irfan  
+**Mata Kuliah:** Pemrograman Lanjut   
 **Universitas Muhammadiyah Malang**
 
 ---
 
-📅 *Dibuat pada: Oktober 2025*
+📅 *Dibuat pada: 29 Oktober 2025*
